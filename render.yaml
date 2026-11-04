@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sendero-los-matapalos
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./public
